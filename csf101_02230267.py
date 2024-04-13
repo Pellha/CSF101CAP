@@ -1,18 +1,17 @@
 ################################
-# Your Name
-# Your Section
-# Your Student ID Number
+# Namgyel Pellha
+# MECHANICAL ENGINEERING
+# 02230267
 ################################
 # REFERENCES
-# Links that you referred while solving
-# the problem
-# http://link.to.an.article/video.com
+# https://youtu.be/LpZmZs2_BC4?feature=sharedm
+# https://youtu.be/Uh2ebFW8OYM?feature=shared
+# https://www.dataquest.io/blog/read-file-python/#:~:text=Python%20provides%20a%20built%2Din,we%20can%20manipulate%20its%20content
 ################################
 # SOLUTION
-# Your Solution Score:
-# Put your number here
+# Your Solution Score:50169
+# Put your number here:7
 ################################
-# Read the input.txt file
 def read_input():
     f = open('input_7_cap1.txt', 'r')
     print(f.read())
